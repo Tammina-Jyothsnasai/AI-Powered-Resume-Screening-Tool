@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Full Stack Developer",
+    "company": "Google",
+    "location": "Rajasthan",
+    "salary": "10,00,000 per annum",
+    "description": "HTML, CSS, JavaScript, SQL build the project as using both Frontend and Backend."
+  },
+  {
+    "title": "Backend Developer",
+    "company": "IBM",
+    "location": "Pune",
+    "salary": "8,50,000 per annum",
+    "description": "Django, REST API, PostgreSQL, automatic development also included."
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Infosys",
+    "location": "Bangalore",
+    "salary": "12,00,000 per annum",
+    "description": "Work with large datasets, build machine learning models, and automate data pipelines."
+  },
+  {
+    "title": "Web Developer",
+    "company": "Wipro",
+    "location": "Hyderabad",
+    "salary": "7,00,000 per annum",
+    "description": "Build responsive web applications using HTML, CSS, and JavaScript frameworks."
+  },
+  {
+    "title": "AI Engineer",
+    "company": "TCS",
+    "location": "Chennai",
+    "salary": "13,00,000 per annum",
+    "description": "Develop AI/ML solutions for enterprise systems and automate decision-making."
+  },
+  {
+    "title": "AI Engineer",
+    "company": "TATA",
+    "location": "Mumbai",
+    "salary": "13,00,000 per annum",
+    "description": "Develop AI/ML solutions for enterprise systems and automate decision-making."
+  },
+  {
+    "title": "Web Developer",
+    "company": "Pursuit",
+    "location": "Vizag",
+    "salary": "6,80,000 per annum",
+    "description": "Build responsive web applications using HTML, CSS, and JavaScript frameworks."
+  },
+  {
+    "title": "Web Developer",
+    "company": "Zidio",
+    "location": "Bangalore",
+    "salary": "7,50,000 per annum",
+    "description": "Build responsive web applications using HTML, CSS, and JavaScript frameworks."
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Wipro",
+    "location": "Karnataka",
+    "salary": "11,50,000 per annum",
+    "description": "Work with large datasets, build machine learning models, and automate data pipelines."
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Infosys",
+    "location": "Bangalore",
+    "salary": "9,20,000 per annum",
+    "description": "Analyze large datasets and support business decisions with insights."
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "TCS",
+    "location": "Rajasthan",
+    "salary": "10,00,000 per annum",
+    "description": "HTML, CSS, JavaScript, SQL build the project as using both Frontend and Backend."
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Wipro",
+    "location": "Hyderabad",
+    "salary": "10,00,000 per annum",
+    "description": "HTML, CSS, JavaScript, SQL build the project as using both Frontend and Backend."
+  },
+  {
+    "title": "Java Full Stack Developer",
+    "company": "Google",
+    "location": "Bangalore",
+    "salary": "12,00,000 per annum",
+    "description": "HTML, CSS, JavaScript, SQL build the project as using both Frontend and Backend."
+  }
+]

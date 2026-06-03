@@ -1,0 +1,126 @@
+ [
+    {
+        "name": "AI Research Intern",
+        "company": "Google AI",
+        "location": "Bangalore",
+        "stipend": "15,000 per month",
+        "domain": "AI",
+       "description": "getting more developed AI tools"
+    },
+    {
+        "name": "Web Development Intern",
+        "company": "Infosys",
+        "location": "Hyderabad",
+        "stipend": "10,000 per month",
+        "domain": "Web",
+        "description": "getting more developed Web development "
+
+    },
+    {
+        "name": "Cybersecurity Intern",
+        "company": "TCS",
+        "location": "Pune",
+        "stipend": "12,000 per month",
+        "domain": "Cybersecurity",
+      "description": "getting more developed cybersecurity development"
+    },
+    {
+        "name": "Data Science Intern",
+        "company": "Wipro",
+        "location": "Chennai",
+        "stipend": "14,000 per month",
+        "domain": "Data Science",
+      "description": "getting more analysis of development in data science"
+    },
+    {
+        "name": "Machine Learning Intern",
+        "company": "Amazon",
+        "location": "Bangalore",
+        "stipend": "18,000 per month",
+        "domain": "ML",
+      "description": "getting more developed ML tools"
+    },
+    {
+        "name": "Frontend Intern",
+        "company": "Zoho",
+        "location": "Coimbatore",
+        "stipend": "9,000 per month",
+        "domain": "Web",
+      "description": "getting more developed Web development "
+    },
+    {
+        "name": "Backend Intern",
+        "company": "IBM",
+        "location": "Noida",
+        "stipend": "11,000 per month",
+        "domain": "Web",
+      "description": "getting more developed Web development "
+    },
+    {
+        "name": "Cloud Intern",
+        "company": "Microsoft",
+        "location": "Hyderabad",
+        "stipend": "16,000 per month",
+        "domain": "Cloud Computing",
+      "description": "getting more computing of aws and cloud etc.. development "
+    },
+    {
+        "name": "DevOps Intern",
+        "company": "Red Hat",
+        "location": "Pune",
+        "stipend": "13,000 per month",
+        "domain": "DevOps",
+      "description": "getting more developed Devops for mobile activities "
+    },
+   {
+        "name": "Web Development",
+        "company": "Google",
+        "location": "Pune",
+        "stipend": "13,00,000 per month",
+        "domain": "Java Full Stack Developer",
+      "description": "getting more developed web applications for mobile activities "
+    },
+    {
+        "name": "AR/VR Intern",
+        "company": "Meta",
+        "location": "Mumbai",
+        "stipend": "20,000 per month",
+        "domain": "AR/VR",
+      "description": "getting more developed AR/VR "
+    },
+    {
+        "name": "Blockchain Intern",
+        "company": "Polygon",
+        "location": "Delhi",
+        "stipend": "17,000 per month",
+        "domain": "Blockchain"
+    },
+    {
+        "name": "UI/UX Intern",
+        "company": "Adobe",
+        "location": "Bangalore",
+        "stipend": "12,000 per month",
+        "domain": "Design"
+    },
+    {
+        "name": "Android Development Intern",
+        "company": "Samsung",
+        "location": "Noida",
+        "stipend": "13,500 per month",
+        "domain": "Mobile"
+    },
+    {
+        "name": "iOS Development Intern",
+        "company": "Apple",
+        "location": "Mumbai",
+        "stipend": "14,000 per month",
+        "domain": "Mobile"
+    },
+    {
+        "name": "NLP Intern",
+        "company": "OpenAI",
+        "location": "Karnataka",
+        "stipend": "25,000 per month",
+        "domain": "AI"
+    }
+]

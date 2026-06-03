@@ -1,0 +1,155 @@
+[
+    {
+        "name": "AI Grand Challenge",
+        "company": "Google",
+        "location": "Online",
+        "prize": "₹1,00,000",
+        "certificate": "Yes",
+        "description": "Solve complex AI problems in natural language understanding and vision tasks.",
+        "domain": "AI"
+    },
+    {
+        "name": "Hack the Web",
+        "company": "Mozilla",
+        "location": "Delhi",
+        "prize": "₹75,000",
+        "certificate": "Yes",
+        "description": "Frontend and backend web development challenge with a focus on open source.",
+        "domain": "Web"
+    },
+    {
+        "name": "CyberShield",
+        "company": "Cisco",
+        "location": "Bangalore",
+        "prize": "₹90,000",
+        "certificate": "Yes",
+        "description": "Compete in securing systems, ethical hacking, and digital forensics.",
+        "domain": "Cybersecurity"
+    },
+    {
+        "name": "DataVerse",
+        "company": "IBM",
+        "location": "Mumbai",
+        "prize": "₹1,50,000",
+        "certificate": "Yes",
+        "description": "Tackle big data and analytics problems using machine learning.",
+        "domain": "Data Science"
+    },
+    {
+        "name": "ML Sprint",
+        "company": "Amazon",
+        "location": "Hyderabad",
+        "prize": "₹1,20,000",
+        "certificate": "Yes",
+        "description": "Create ML models for real-time predictions and automation.",
+        "domain": "ML"
+    },
+    {
+        "name": "CodeStorm",
+        "company": "TCS",
+        "location": "Chennai",
+        "prize": "₹50,000",
+        "certificate": "Yes",
+        "description": "Solve coding problems, algorithms and compete in DevOps tracks.",
+        "domain": "DevOps"
+    },
+    {
+        "name": "HackXR",
+        "company": "Meta",
+        "location": "Bangalore",
+        "prize": "₹2,00,000",
+        "certificate": "Yes",
+        "description": "Augmented and virtual reality prototype competition.",
+        "domain": "AR/VR"
+    },
+    {
+        "name": "Blockchain Battles",
+        "company": "Polygon",
+        "location": "Remote",
+        "prize": "₹80,000",
+        "certificate": "Yes",
+        "description": "Build decentralized applications using Ethereum or Polygon tech.",
+        "domain": "Blockchain"
+    },
+    {
+        "name": "UI/UX Jam",
+        "company": "Adobe",
+        "location": "Pune",
+        "prize": "₹65,000",
+        "certificate": "Yes",
+        "description": "Design user-centered interfaces and improve existing systems.",
+        "domain": "Design"
+    },
+    {
+        "name": "Android Arena",
+        "company": "Samsung",
+        "location": "Noida",
+        "prize": "₹70,000",
+        "certificate": "Yes",
+        "description": "Android app challenge focusing on smart solutions.",
+        "domain": "Mobile"
+    },
+  {
+        "name": "Android Arena",
+        "company": "Samsung",
+        "location": "Noida",
+        "prize": "₹70,000",
+        "certificate": "Yes",
+        "description": "Android app challenge focusing on smart solutions.",
+        "domain": "Java Full Stack Developer"
+    },
+  {
+        "name": "Android Arena",
+        "company": "Wipro",
+        "location": "Karnataka",
+        "prize": "₹90,000",
+        "certificate": "Yes",
+        "description": "Android app challenge focusing on smart solutions.",
+        "domain": "Java Full Stack Developer"
+    },
+    {
+        "name": "iOS Sprint",
+        "company": "Apple",
+        "location": "Mumbai",
+        "prize": "₹85,000",
+        "certificate": "Yes",
+        "description": "Create innovative iOS applications using Swift and UIKit.",
+        "domain": "Mobile"
+    },
+    {
+        "name": "CloudCon Hack",
+        "company": "Microsoft",
+        "location": "Hyderabad",
+        "prize": "₹1,00,000",
+        "certificate": "Yes",
+        "description": "Use Azure to deploy scalable cloud-native applications.",
+        "domain": "Cloud Computing"
+    },
+    {
+        "name": "VoiceBot Challenge",
+        "company": "OpenAI",
+        "location": "Online",
+        "prize": "₹1,80,000",
+        "certificate": "Yes",
+        "description": "Build smart voice bots using NLP and speech synthesis.",
+        "domain": "AI"
+    },
+    {
+        "name": "Game Dev Showdown",
+        "company": "Unity",
+        "location": "Pune",
+        "prize": "₹90,000",
+        "certificate": "Yes",
+        "description": "Develop engaging 2D/3D games under time constraints.",
+        "domain": "Game Development"
+    },
+    {
+        "name": "AutoML Arena",
+        "company": "H2O.ai",
+        "location": "Bangalore",
+        "prize": "₹1,10,000",
+        "certificate": "Yes",
+        "description": "Compete in building automatic machine learning pipelines.",
+        "domain": "ML"
+    }
+]
