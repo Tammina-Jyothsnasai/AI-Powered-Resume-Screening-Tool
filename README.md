@@ -60,7 +60,7 @@ AI-Resume-Screening-Tool/
 
 ### Clone the Repository
 
-git clone https://github.com/yourusername/AI-Resume-Screening-Tool.git
+git clone https://github.com/Tammina-Jyothsnasai/AI-Resume-Screening-Tool.git
 
 ### Navigate to Project Directory
 
